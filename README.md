@@ -1,2 +1,3 @@
-# mixed_precision_references
-Personal collection of references for high performance mixed precision training.
+# Mixed Precision References
+
+Currently contains slides from GTC 2019 and Pytorch Developer Conference 2019.
